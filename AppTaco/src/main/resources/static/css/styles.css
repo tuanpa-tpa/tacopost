@@ -1,0 +1,16 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.grid{
+	display: flex;
+	flex-wrap: wrap;
+	padding: 40px;
+}
+
+.ingredient-group{
+	width: 50%;
+	margin-top: 12px;
+}
